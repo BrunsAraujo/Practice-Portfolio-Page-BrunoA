@@ -1,0 +1,25 @@
+    body {
+      margin: 0;
+      height: 200vh;
+      background: linear-gradient(to bottom, #f0f0f0, #808080);
+    }
+body{
+    font color: red;
+}
+h1{
+    text-align: center;
+}
+h1{
+    color: darkcyan;
+    }
+    h3{
+    color: red;
+    }
+    h2{color:yellow;
+    }
+li {
+    color:purple;
+}
+td {
+    color: red
+}
